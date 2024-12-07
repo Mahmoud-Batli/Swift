@@ -3,6 +3,8 @@ zipCodes = [12345 , 23456 , 34567]
 print(zipCodes)
 
 var cities = ["Cairo","Hurghada","Giza"]
+cities.reverse()
+print(cities)
 print(cities[0])
 
 //add anew value in the end
