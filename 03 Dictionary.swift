@@ -26,6 +26,3 @@ print(employers["Code"]!)
 
 //print value if key not existing
 print(employers["ID"] ?? 9876)
-
-print(employers["Code"]!)
-
